@@ -1,11 +1,11 @@
-# Cv
-Cv'me buradan ulaşabilirsiniz.
 # Merve Canan YAĞCI
 ## YAZILIM GELİŞTİRİCİSİ
 
 ### İLETİŞİM
-- Email: [email protected]
-- Telefon: (123) 456-7890
+- Email: [mervecananyagci@gmail.com](mailto:mervecananyagci@gmail.com)
+- GitHub: [github.com/mervecananyagci](https://github.com/mervecananyagci)
+- Telefon: 0536 504 9234
+- Adres: Atakum/SAMSUN
 - LinkedIn: [linkedin.com/in/mervecananyagci](https://www.linkedin.com/in/mervecananyagci)
 
 ### DENEYİM
