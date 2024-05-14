@@ -33,13 +33,13 @@
 - HTML - CSS
 - C#
   Araç Takip Otomasyonu 
-  -Admin paneli arayüzü,
-  -Kullanıcıların araç ile ilgili bilgilerin kolay erişim
+  - Admin paneli arayüzü,
+  - Kullanıcıların araç ile ilgili bilgilerin kolay erişim
    sağlayabilecekleri bir arayüz tasarlama,
-  -Araç bilgilerini kayıt etme, güncelleme, silme, yazdırma,
-  -Microsoft Excel’e aktarma ve muayene günü yaklaşan
+  - Araç bilgilerini kayıt etme, güncelleme, silme, yazdırma,
+  - Microsoft Excel’e aktarma ve muayene günü yaklaşan
    araçların hatırlatıcı ile uyarı sağlamak.
-  -SQL Server Management Studio Express ile network bağlantısı
+  - SQL Server Management Studio Express ile network bağlantısı
    kurup admin panelini ve user arayüzündeki bilgilerin
    senkronize edilmesini sağladım.
 - Adobe Photoshop
