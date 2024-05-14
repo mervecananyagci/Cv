@@ -44,23 +44,12 @@
    senkronize edilmesini sağladım.
 - Adobe Photoshop
 - MySQL
-  -PypMyAdmin kullanım bilgisi,
-  -SQL Server Management Studio Express kullanımı,
-- Linux
-- Kali Linux
- - Metasploitable
- - Temel kernel bilgisi
- - Harvester Aracı İle Bilgi Toplama
- - Dmitry Aracı İle Bilgi Toplama
- - Shodan İle Bilgi Toplama
- - Maltego İle Bilgi Toplama
- - Netdiscover ile Ağ Keşfi
- - Nmap İle Ağ Keşfi
- - Zenmap GUI
- - Web Uygulamalarına Yönelik Sızma Testi
+  - PypMyAdmin kullanım bilgisi,
+  - SQL Server Management Studio Express kullanımı,
+    
 - Microsoft Office Programları (İleri Seviye)
 - PHP
-- HTML ve CSS kullanarak alışveriş sitesi yapımı ve sitenin verisini PhpMyAdmin’e bağlantı kurmak
+ - HTML ve CSS kullanarak alışveriş sitesi yapımı ve sitenin verisini PhpMyAdmin’e bağlantı kurmak
 
 ### SERTİFİKALAR
 - Web Uygulama Güvenliği
