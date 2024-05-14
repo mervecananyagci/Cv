@@ -30,26 +30,37 @@
 
 ### YETENEKLER
 - Python
-- English
 - HTML - CSS
 - C#
+  Araç Takip Otomasyonu 
+  -Admin paneli arayüzü,
+  -Kullanıcıların araç ile ilgili bilgilerin kolay erişim
+   sağlayabilecekleri bir arayüz tasarlama,
+  -Araç bilgilerini kayıt etme, güncelleme, silme, yazdırma,
+  -Microsoft Excel’e aktarma ve muayene günü yaklaşan
+   araçların hatırlatıcı ile uyarı sağlamak.
+  -SQL Server Management Studio Express ile network bağlantısı
+   kurup admin panelini ve user arayüzündeki bilgilerin
+   senkronize edilmesini sağladım.
 - Adobe Photoshop
 - MySQL
-- PypMyAdmin
-- SQL Server Management Studio Express
+  -PypMyAdmin kullanım bilgisi,
+  -SQL Server Management Studio Express kullanımı,
 - Linux
 - Kali Linux
-- Metasploitable
-- Temel kernel bilgisi
-- Harvester Aracı İle Bilgi Toplama
-- Dmitry Aracı İle Bilgi Toplama
-- Shodan İle Bilgi Toplama
-- Maltego İle Bilgi Toplama
-- Netdiscover ile Ağ Keşfi
-- Nmap İle Ağ Keşfi
-- Zenmap GUI
-- Web Uygulamalarına Yönelik Sızma Testi
+ - Metasploitable
+ - Temel kernel bilgisi
+ - Harvester Aracı İle Bilgi Toplama
+ - Dmitry Aracı İle Bilgi Toplama
+ - Shodan İle Bilgi Toplama
+ - Maltego İle Bilgi Toplama
+ - Netdiscover ile Ağ Keşfi
+ - Nmap İle Ağ Keşfi
+ - Zenmap GUI
+ - Web Uygulamalarına Yönelik Sızma Testi
 - Microsoft Office Programları (İleri Seviye)
+- PHP
+- HTML ve CSS kullanarak alışveriş sitesi yapımı ve sitenin verisini PhpMyAdmin’e bağlantı kurmak
 
 ### SERTİFİKALAR
 - Web Uygulama Güvenliği
@@ -62,5 +73,4 @@
 - Geleceği Yazanlar Python 401
 - Geleceği Yazanlar Web Programlama 101
 - Geleceği Yazanlar Web Programlama 201
-- PHP
-- HTML ve CSS kullanarak alışveriş sitesi yapımı ve sitenin verisini PhpMyAdmin’e bağlantı kurmak
+
