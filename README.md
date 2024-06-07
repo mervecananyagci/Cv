@@ -18,11 +18,11 @@
     - Sistem network altyapı ve kurulumları
     - Kullanıcı bilgisayarları donanım desteği
   - Meteoroloji Genel Müdürlüğü - Ankara - 2018 / 2019
-  - Donanım ve Yazılım arızaları onarma
-  - Network bağlantısını sağlama
-  - Yazıcı arıza onarımı
-  - Bilgisayarları domain etki alanını dahil etme
-  - Kullanıcı e-mail adreslerini domain server outlook adresine upgrade etme
+    - Donanım ve Yazılım arızaları onarma
+    - Network bağlantısını sağlama
+    - Yazıcı arıza onarımı
+    - Bilgisayarları domain etki alanını dahil etme
+    - Kullanıcı e-mail adreslerini domain server outlook adresine upgrade etme
   
 
 ### EĞİTİM
