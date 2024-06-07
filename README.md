@@ -11,18 +11,19 @@
 ### DENEYİM
 - **Stajyer**
   - Bilgi Akademi Okulları - Samsun - 2022
+    - Personel ve öğrenci veri girişleri
+    - Sistem kurulum desteği
+    - Uygulamaları denetleme ve upgrade etme
+    - Sistem ve güvenlik gereksinimlerini sağlama
+    - Sistem network altyapı ve kurulumları
+    - Kullanıcı bilgisayarları donanım desteği
   - Meteoroloji Genel Müdürlüğü - Ankara - 2018 / 2019
   - Donanım ve Yazılım arızaları onarma
   - Network bağlantısını sağlama
   - Yazıcı arıza onarımı
   - Bilgisayarları domain etki alanını dahil etme
   - Kullanıcı e-mail adreslerini domain server outlook adresine upgrade etme
-  - Personel ve öğrenci veri girişleri
-  - Sistem kurulum desteği
-  - Uygulamaları denetleme ve upgrade etme
-  - Sistem ve güvenlik gereksinimlerini sağlama
-  - Sistem network altyapı ve kurulumları
-  - Kullanıcı bilgisayarları donanım desteği
+  
 
 ### EĞİTİM
 - **Ondokuz Mayıs Üniversitesi** - Bilgisayar Programcılığı - Lisans - 2021 - 2023
